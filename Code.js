@@ -1,6 +1,6 @@
 function checkGoCardLess() {
   var recordId = 'recnPHGUAvVaYrwkg'; // Get the Record ID from AU2
-
+  //New comment
   if (!recordId) {
     Logger.log("Record ID is empty.");
     return false;
